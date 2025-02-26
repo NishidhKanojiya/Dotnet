@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Dotnet\\Assignment1ALLQuestions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189E80A1-2485-4258-91CA-07DE5F0A3613}|Assignment1\\Assignment1.csproj|c:\\users\\acer\\desktop\\dotnet\\assignment1allquestions\\assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189E80A1-2485-4258-91CA-07DE5F0A3613}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\Assignment1ALLQuestions\\Assignment1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\Assignment1ALLQuestions\\Assignment1\\Program.cs",
+              "RelativeToolTip": "Assignment1\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAYwGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T12:47:32.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
