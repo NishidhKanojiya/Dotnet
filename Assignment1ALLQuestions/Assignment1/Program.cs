@@ -1,164 +1,162 @@
 ﻿using System;
 using System.IO;
+using System.Globalization;
+using System.Linq; // Added for LINQ operations
 
-namespace Assignment___1
+namespace Assignment_1
 {
-    internal class Program
+    internal class TypeCasting
     {
-        void Q1()
+        public static void PerformTypeCasting()
         {
-            Console.Write("Give an input in order to typecast: ");
+            Console.Write("Enter input to convert: ");
             string input = Console.ReadLine();
 
-            try
-            {
-                int intValue = Convert.ToInt32(input);
-                Console.WriteLine($"Integer value: {intValue}");
-            }
-            catch
-            {
-                Console.WriteLine("Input is not a valid integer.");
-            }
-
-            try
-            {
-                bool boolValue = Convert.ToBoolean(input);
-                Console.WriteLine($"Boolean value: {boolValue}");
-            }
-            catch
-            {
-                Console.WriteLine("Input is not a valid boolean.");
-            }
-
-            try
-            {
-                double doubleValue = Convert.ToDouble(input);
-                Console.WriteLine($"Double value: {doubleValue}");
-            }
-            catch
-            {
-                Console.WriteLine("Input is not a valid double.");
-            }
-
-            try
-            {
-                decimal decimalValue = Convert.ToDecimal(input);
-                Console.WriteLine($"Decimal value: {decimalValue}");
-            }
-            catch
-            {
-                Console.WriteLine("Input is not a valid decimal.");
-            }
-
-            try
-            {
-                DateTime dateTimeValue = Convert.ToDateTime(input);
-                Console.WriteLine($"DateTime value: {dateTimeValue}");
-            }
-            catch
-            {
-                Console.WriteLine("Input is not a valid DateTime.");
-            }
+            TryConvert<int>(input, "Integer");
+            TryConvert<bool>(input, "Boolean");
+            TryConvert<double>(input, "Double");
+            TryConvert<decimal>(input, "Decimal");
+            TryConvert<DateTime>(input, "DateTime");
         }
 
-        void Q2()
+        private static void TryConvert<T>(string input, string typeName)
+        {
+            try
+            {
+                // Use invariant culture for consistent conversions
+                T value = (T)Convert.ChangeType(input, typeof(T), CultureInfo.InvariantCulture);
+                Console.WriteLine($"{typeName} value: {value}");
+            }
+            catch (Exception ex) when (ex is InvalidCastException ||
+                                      ex is FormatException ||
+                                      ex is OverflowException ||
+                                      ex is ArgumentNullException)
+            {
+                Console.WriteLine($"Input is not a valid {typeName}.");
+            }
+        }
+    }
+
+    internal class StringManipulation
+    {
+        public static void PerformStringOperations()
         {
             Console.Write("Enter a string: ");
-            string input = Console.ReadLine();
+            string input = Console.ReadLine() ?? string.Empty; // Handle null input
 
-            string upperCase = input.ToUpper();
-            string lowerCase = input.ToLower();
-            string trimmed = input.Trim();
-            string replaced = input.Replace('l', '*');
+            Console.WriteLine($"Uppercase: {input.ToUpper()}");
+            Console.WriteLine($"Lowercase: {input.ToLower()}");
+            Console.WriteLine($"Trimmed: '{input.Trim()}'");
+            Console.WriteLine($"Replaced 'l' with '*': {input.Replace('l', '*')}");
 
-            int count = 0;
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (input[i] == 'l')
-                {
-                    count++;
-                }
-            }
-
-            string formattedOutput = string.Join("*", input.ToCharArray());
-
-            Console.WriteLine($"Uppercase: {upperCase}");
-            Console.WriteLine($"Lowercase: {lowerCase}");
-            Console.WriteLine($"Trimmed: '{trimmed}'");
-            Console.WriteLine($"Replaced 'l' with '*': {replaced}");
+            // Improved count using LINQ
+            int count = input.Count(c => c == 'l');
             Console.WriteLine($"Number of 'l' in the string: {count}");
-            Console.WriteLine($"Formatted output: {formattedOutput}");
+
+            Console.WriteLine($"Formatted output: {string.Join("*", input.ToCharArray())}");
+        }
+    }
+
+    internal class FileOperations
+    {
+        private const string FilePath = "output.txt";
+
+        public static void AppendToFile()
+        {
+            try
+            {
+                DisplayCurrentFileContents();
+
+                Console.Write("Enter text to append: ");
+                string input = Console.ReadLine() ?? string.Empty;
+
+                AppendTextToFile(input);
+                DisplayUpdatedFileContents();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Operation failed: {ex.Message}");
+            }
         }
 
-        void Q3()
+        private static void DisplayCurrentFileContents()
         {
-            string filePath = "output.txt";
-
-            if (File.Exists(filePath))
+            try
             {
-                Console.WriteLine("Current contents of the file:");
-                string[] lines = File.ReadAllLines(filePath);
-                foreach (string line in lines)
+                if (File.Exists(FilePath))
                 {
-                    Console.WriteLine(line);
+                    Console.WriteLine("Current file contents:");
+                    Console.WriteLine(File.ReadAllText(FilePath));
+                }
+                else
+                {
+                    Console.WriteLine("File doesn't exist. Creating new file.");
                 }
             }
-            else
+            catch (IOException ex)
             {
-                Console.WriteLine("File does not exist. A new file will be created.");
-            }
-
-            Console.Write("Enter a string to append to the file: ");
-            string input = Console.ReadLine();
-
-            using (StreamWriter writer = new StreamWriter(filePath, true))
-            {
-                writer.WriteLine(input);
-            }
-
-            Console.WriteLine("String appended to the file successfully.");
-
-            Console.WriteLine("Updated contents of the file:");
-            string[] updatedLines = File.ReadAllLines(filePath);
-            foreach (string line in updatedLines)
-            {
-                Console.WriteLine(line);
+                Console.WriteLine($"Read error: {ex.Message}");
             }
         }
 
-        static void Main(string[] args)
+        private static void AppendTextToFile(string input)
         {
-            Program program = new Program();
-            bool exit = false;
+            try
+            {
+                File.AppendAllText(FilePath, input + Environment.NewLine);
+                Console.WriteLine("Text appended successfully.");
+            }
+            catch (UnauthorizedAccessException)
+            {
+                Console.WriteLine("Error: Missing write permissions.");
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Write error: {ex.Message}");
+            }
+        }
 
+        private static void DisplayUpdatedFileContents()
+        {
+            try
+            {
+                Console.WriteLine("Updated contents:");
+                Console.WriteLine(File.ReadAllText(FilePath));
+            }
+            catch (IOException ex)
+            {
+                Console.WriteLine($"Read error: {ex.Message}");
+            }
+        }
+    }
+
+    internal class Program
+    {
+        static void Main()
+        {
+            bool exit = false;
             while (!exit)
             {
-                Console.WriteLine("\nMenu:");
-                Console.WriteLine("1. Typecast Input");
-                Console.WriteLine("2. String Manipulation");
-                Console.WriteLine("3. Append to File");
-                Console.WriteLine("4. Exit");
-                Console.Write("Choose an option (1-4): ");
+                Console.WriteLine("\nMenu:\n1. Type Conversion\n2. String Operations\n3. File Append\n4. Exit");
+                Console.Write("Select option (1-4): ");
 
-                string choice = Console.ReadLine();
-
-                switch (choice)
+                switch (Console.ReadLine())
                 {
                     case "1":
-                        program.Q1();
+                        TypeCasting.PerformTypeCasting();
                         break;
                     case "2":
-                        program.Q2();
+                        StringManipulation.PerformStringOperations();
                         break;
                     case "3":
-                        program.Q3();
+                        FileOperations.AppendToFile();
                         break;
                     case "4":
                         exit = true;
-                        Console.WriteLine("Exiting the program.");
+                        Console.WriteLine("Exiting...");
                         break;
                     default:
-                        Console.WriteLine("Invalid choice. Please select a valid option.");
+                        Console.WriteLine("Invalid option");
                         break;
                 }
             }
