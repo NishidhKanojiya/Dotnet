@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\obj\Debug\AssignMent2.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\obj\Debug\AssignMent2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\bin\Debug\AssignMent2.exe.config
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\bin\Debug\AssignMent2.exe
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\bin\Debug\AssignMent2.pdb
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\obj\Debug\AssignMent2.exe
+C:\Users\Acer\Desktop\Dotnet\AssignMent2\AssignMent2\obj\Debug\AssignMent2.pdb
