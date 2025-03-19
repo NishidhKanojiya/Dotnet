@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\bin\Debug\Assignment1pdf.exe.config
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\bin\Debug\Assignment1pdf.exe
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\bin\Debug\Assignment1pdf.pdb
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\obj\Debug\Assignment1pdf.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\obj\Debug\Assignment1pdf.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\obj\Debug\Assignment1pdf.exe
+C:\Users\Acer\Desktop\Dotnet\Assignment1pdf\Assignment1pdf\obj\Debug\Assignment1pdf.pdb
