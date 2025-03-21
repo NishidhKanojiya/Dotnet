@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\views\\download\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\views\\download\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\models\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\models\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\portfolioweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\portfolioweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\models\\techskillsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\models\\techskillsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\controllers\\techskillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\controllers\\techskillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|c:\\users\\acer\\desktop\\dotnet\\portfolioweb\\portfolioweb\\views\\techskills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F436072-455D-4D9D-9649-EB4C382E4295}|PortfolioWeb\\PortfolioWeb.csproj|solutionrelative:portfolioweb\\views\\techskills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "PortfolioWeb\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:49:20.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Models\\AboutViewModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\AboutViewModel.cs",
+              "RelativeToolTip": "PortfolioWeb\\Models\\AboutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:53:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TechSkillsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\TechSkillsViewModel.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Models\\TechSkillsViewModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\TechSkillsViewModel.cs",
+              "RelativeToolTip": "PortfolioWeb\\Models\\TechSkillsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:53:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PortfolioWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T16:45:54.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Models\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "PortfolioWeb\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:51:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWeb\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T16:56:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PortfolioWeb",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\PortfolioWeb.csproj",
+              "RelativeDocumentMoniker": "PortfolioWeb\\PortfolioWeb.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\PortfolioWeb.csproj",
+              "RelativeToolTip": "PortfolioWeb\\PortfolioWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T17:12:28.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PortfolioWeb\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PortfolioWeb\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T17:09:07.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Download\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Views\\Download\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Download\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWeb\\Views\\Download\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T17:05:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T16:55:24.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DownloadController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\DownloadController.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Controllers\\DownloadController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\DownloadController.cs",
+              "RelativeToolTip": "PortfolioWeb\\Controllers\\DownloadController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:50:39.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PortfolioWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:47:43.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TechSkillsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\TechSkillsController.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Controllers\\TechSkillsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Controllers\\TechSkillsController.cs",
+              "RelativeToolTip": "PortfolioWeb\\Controllers\\TechSkillsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:50:02.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Program.cs",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Program.cs",
+              "RelativeToolTip": "PortfolioWeb\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T17:14:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\TechSkills\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioWeb\\Views\\TechSkills\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Dotnet\\PortfolioWeb\\PortfolioWeb\\Views\\TechSkills\\Index.cshtml",
+              "RelativeToolTip": "PortfolioWeb\\Views\\TechSkills\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T17:04:23.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

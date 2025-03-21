@@ -1,0 +1,19 @@
+﻿@model TechSkillsViewModel
+
+<div class="container">
+    <h2>Technical Skills</h2>
+    @foreach (var category in Model.Skills)
+    {
+        <div class="card mt-3">
+            <div class="card-header bg-primary text-white">
+                @category.Key
+            </div>
+            <div class="card-body">
+                @foreach (var skill in category.Value)
+                {
+                    <span class="badge bg-secondary m-1">@skill</span>
+                }
+            </div>
+        </div>
+    }
+</div>
