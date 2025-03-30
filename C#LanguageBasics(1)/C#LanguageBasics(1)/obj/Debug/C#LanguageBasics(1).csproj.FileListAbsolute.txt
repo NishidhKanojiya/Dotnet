@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\obj\Debug\C#LanguageBasics(1).csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\obj\Debug\C#LanguageBasics(1).csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\bin\Debug\C#LanguageBasics(1).exe.config
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\bin\Debug\C#LanguageBasics(1).exe
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\bin\Debug\C#LanguageBasics(1).pdb
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\obj\Debug\C#LanguageBasics(1).exe
+C:\Users\Acer\Desktop\Dotnet\C#LanguageBasics(1)\C#LanguageBasics(1)\obj\Debug\C#LanguageBasics(1).pdb
