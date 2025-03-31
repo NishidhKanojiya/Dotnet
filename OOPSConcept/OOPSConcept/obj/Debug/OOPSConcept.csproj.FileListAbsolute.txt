@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.exe.config
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.exe
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\bin\Debug\OOPSConcept.pdb
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.exe
+C:\Users\Acer\Desktop\Dotnet\OOPSConcept\OOPSConcept\obj\Debug\OOPSConcept.pdb
