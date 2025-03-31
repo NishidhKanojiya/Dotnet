@@ -1,0 +1,6 @@
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\bin\Debug\MyOperations1.dll
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\bin\Debug\MyOperations1.pdb
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\obj\Debug\MyOperations1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\obj\Debug\MyOperations1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\obj\Debug\MyOperations1.dll
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\MyOperations1\obj\Debug\MyOperations1.pdb

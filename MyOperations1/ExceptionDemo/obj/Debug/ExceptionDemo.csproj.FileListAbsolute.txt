@@ -1,0 +1,10 @@
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\bin\Debug\MyOperations1.dll
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\bin\Debug\MyOperations1.pdb
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\obj\Debug\Exceptio.A66A4132.Up2Date
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\Acer\Desktop\Dotnet\MyOperations1\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
