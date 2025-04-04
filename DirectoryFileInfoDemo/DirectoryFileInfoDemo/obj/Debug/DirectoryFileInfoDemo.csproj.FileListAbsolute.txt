@@ -1,0 +1,7 @@
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\bin\Debug\DirectoryFileInfoDemo.exe.config
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\bin\Debug\DirectoryFileInfoDemo.exe
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\bin\Debug\DirectoryFileInfoDemo.pdb
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\obj\Debug\DirectoryFileInfoDemo.csproj.AssemblyReference.cache
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\obj\Debug\DirectoryFileInfoDemo.csproj.CoreCompileInputs.cache
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\obj\Debug\DirectoryFileInfoDemo.exe
+D:\NishidhCollege\Dotnet\DirectoryFileInfoDemo\DirectoryFileInfoDemo\obj\Debug\DirectoryFileInfoDemo.pdb
