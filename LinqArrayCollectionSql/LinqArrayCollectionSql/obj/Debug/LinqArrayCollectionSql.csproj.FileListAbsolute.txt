@@ -1,0 +1,7 @@
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\bin\Debug\LinqArrayCollectionSql.exe.config
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\bin\Debug\LinqArrayCollectionSql.exe
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\bin\Debug\LinqArrayCollectionSql.pdb
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\obj\Debug\LinqArrayCollectionSql.csproj.AssemblyReference.cache
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\obj\Debug\LinqArrayCollectionSql.csproj.CoreCompileInputs.cache
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\obj\Debug\LinqArrayCollectionSql.exe
+D:\NishidhCollege\Dotnet\LinqArrayCollectionSql\LinqArrayCollectionSql\obj\Debug\LinqArrayCollectionSql.pdb
