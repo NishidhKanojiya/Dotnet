@@ -1,0 +1,7 @@
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\bin\Debug\binaryFileOperations.exe.config
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\bin\Debug\binaryFileOperations.exe
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\bin\Debug\binaryFileOperations.pdb
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\obj\Debug\binaryFileOperations.csproj.AssemblyReference.cache
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\obj\Debug\binaryFileOperations.csproj.CoreCompileInputs.cache
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\obj\Debug\binaryFileOperations.exe
+D:\NishidhCollege\Dotnet\binaryFileOperations\binaryFileOperations\obj\Debug\binaryFileOperations.pdb
